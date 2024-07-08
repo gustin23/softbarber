@@ -1,0 +1,405 @@
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\CursoSistemaVenta-20230818T171059Z-001\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.dll
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.fmrVentas.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleventa.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.dll
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.fmrVentas.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleventa.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\PC-1\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.fmrVentas.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleventa.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\csv191023\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.fmrVentas.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleventa.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\FERNANDO\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.fmrVentas.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleventa.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\csv 7_11_23\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\54115\Desktop\CursoSistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportesVentas.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\capaEntidad.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.fmrVentas.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleventa.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportesVentas.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\capaEntidad.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.fmrVentas.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleventa.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportesVentas.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\54115\Desktop\PROGRAMACIÓN\SoftBarber\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

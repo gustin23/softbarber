@@ -1,0 +1,12 @@
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\FERNANDO\Desktop\Agustin\CursoSistemaVenta\capaEntidad\obj\Debug\capaEntidad.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\54115\Desktop\CursoSistemaVenta\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\54115\Desktop\CursoSistemaVenta\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\54115\Desktop\CursoSistemaVenta\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\54115\Desktop\CursoSistemaVenta\capaEntidad\obj\Debug\capaEntidad.pdb
